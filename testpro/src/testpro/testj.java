@@ -6,7 +6,6 @@ public class testj {
 		// TODO Auto-generated method stub
 		 	System.out.println("new testproject");
 		 System.out.println("checking for token working");
-		 System.out.println("checking merge");
 	}
 
 }
